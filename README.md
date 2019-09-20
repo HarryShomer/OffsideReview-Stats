@@ -1,6 +1,6 @@
 # OffsideReview Database Stats
 
-Here is the code behind how all the stats for OffsideReview were calculated and inserted into the database. If you are interested in the code for the site itself see [https://github.com/HarryShomer/OffsideReview](here). I was bored so I figured I may as well make this public for those who may be interested. There are four main processes that I'll give a very brief overview on. Before we start I must note/warn that code presented here is, on average, poorly written and incredibly hacky. Also the SQL is incredibly messy as this project was how I learnt the language and I never bothered to refactor. So be careful about what you take away from this. 
+Here is the code behind how all the stats for OffsideReview were calculated and inserted into the database. If you are interested in the code for the site itself see [here](https://github.com/HarryShomer/OffsideReview). I was bored so I figured I may as well make this public for those who may be interested. There are four main processes that I'll give a very brief overview on. Before we start I must note/warn that code presented here is, on average, poorly written and incredibly hacky. Also the SQL is incredibly messy as this project was how I learnt the language and I never bothered to refactor. So be careful about what you take away from this. 
 
 ## Compile Stats
 
